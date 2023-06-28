@@ -1,3 +1,5 @@
+I have created the search and filter button for movie website from moviedatabase api. I have also created sample ui of movie website form. The project was to make filter button based on title, year, searchlimit and type like movie, tvEpisode and series. Please prefer title type: movie.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
